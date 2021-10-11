@@ -1,7 +1,13 @@
 
 ## Welcome to confidential-containers.
 
-Protecting the Kubernetes Pod to deliver Confidential Computing by integrating [Trusted Execution Environments](https://en.wikipedia.org/wiki/Trusted_execution_environment) (TEE) 
- with the cloud native world. 
+We are interested in integrating existing [Trusted Execution Environments](https://en.wikipedia.org/wiki/Trusted_execution_environment) 
+(TEE) infrastructure support and technologies with the cloud native world. Our focus is to place a kubernetes pod into a TEE. 
 
+### Find out more...
+- [documentation](https://github.com/confidential-containers/documentation) : Find out more about the progress to date,
+  overall goals and work in progress.
 
+### Get started quickly... 
+- [confidential-containers-operator](https://github.com/confidential-containers/confidential-containers-operator) : An 
+  operator to deploy confidential containers runtime (and required configs) on a Kubernetes cluster
