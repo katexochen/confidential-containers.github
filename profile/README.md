@@ -1,5 +1,6 @@
+![alt text](https://github.com/ariel-adam/.github/blob/main/coco_logo.png)
 
-## Welcome to confidential-containers.
+## Welcome to confidential-containers
 
 We are interested in integrating existing [Trusted Execution Environments](https://en.wikipedia.org/wiki/Trusted_execution_environment) 
 (TEE) infrastructure support and technologies with the cloud native world. Our focus is to place a kubernetes pod into a TEE. 
