@@ -2,10 +2,10 @@
 
 ## Welcome to confidential-containers
 
-Confidential Containers is an open source community working to leverage 
-[Trusted Execution Environments](https://en.wikipedia.org/wiki/Trusted_execution_environment) 
-to protect containers and data and to deliver cloud native 
-confidential computing.
+Confidential Containers is an open source community working to enable cloud native confidential 
+computing by leveraging 
+[Trusted Execution Environments](https://en.wikipedia.org/wiki/Trusted_execution_environment) to 
+protect containers and data.
 
 Our key considerations are:
 - Allow cloud native application owners to enforce application security requirements
