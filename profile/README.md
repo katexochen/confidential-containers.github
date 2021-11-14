@@ -1,4 +1,4 @@
-![logo](../coco_logo.png)
+![logo](https://github.com/confidential-containers/.github/blob/main/coco_logo.png)
 
 ## Welcome to confidential-containers
 
