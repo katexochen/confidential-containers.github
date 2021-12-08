@@ -23,6 +23,11 @@ vision, goals, and progress.
 - [**Kubernetes Operator**](https://github.com/confidential-containers/confidential-containers-operator)
 Deploy Confidential Containers on a Kubernetes cluster with an operator.
 
+### Join the community
+- [**Weekly Meetings**](https://docs.google.com/document/d/1E3GLCzNgrcigUlgWAZYlgqNTdVwiMwCRTJ0QnJhLZGA/)
+Check out our previous meetings and join our future ones.
+- [**Slack Discussion**](https://bit.ly/kataslack) Join the `#confidential-containers` channel.
+
 ### Supporting Repositories
 - [**attestation-agent**](https://github.com/confidential-containers/attestation-agent) A user space 
 service for attestation procedure
