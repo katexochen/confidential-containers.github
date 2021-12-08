@@ -7,7 +7,7 @@ computing by leveraging
 [Trusted Execution Environments](https://en.wikipedia.org/wiki/Trusted_execution_environment) to 
 protect containers and data.
 
-Our key considerations are:
+Goals:
 - Allow cloud native application owners to enforce application security requirements
 - Transparent deployment of unmodified containers
 - Support for multiple TEE and hardware platforms
@@ -15,17 +15,16 @@ Our key considerations are:
 - Least privilege principles for the Kubernetes Cluster administration capabilities which impact 
 delivering Confidential Computing for guest application or data inside the TEE.
 
-### Find out more...
-- [Documentation](https://github.com/confidential-containers/documentation) : Find out more about 
-the progress to date, overall goals and work in progress.
+### Find out more
+- [**Documentation**](https://github.com/confidential-containers/documentation) Learn about our 
+vision, goals, and progress.
 
-### Get started quickly... 
-- [Kubernetes Operator for Confidential Computing](https://github.com/confidential-containers/confidential-containers-operator)
-: An operator to deploy confidential containers runtime (and required configs) on a Kubernetes 
-cluster
+### Get started
+- [**Kubernetes Operator**](https://github.com/confidential-containers/confidential-containers-operator)
+Deploy Confidential Containers on a Kubernetes cluster with an operator.
 
 ### Supporting Repositories
-- [attestation-agent](https://github.com/confidential-containers/attestation-agent) : A user space 
+- [**attestation-agent**](https://github.com/confidential-containers/attestation-agent) A user space 
 service for attestation procedure
-- [containerd](https://github.com/confidential-containers/containerd) : A temporary fork of 
+- [**containerd**](https://github.com/confidential-containers/containerd) A temporary fork of 
 containerd to explore runtime concepts and capabilities required for confidential containers
