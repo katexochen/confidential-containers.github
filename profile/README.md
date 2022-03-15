@@ -28,6 +28,9 @@ Deploy Confidential Containers on a Kubernetes cluster with an operator.
 Check out our previous meetings and join our future ones.
 - [**Slack Discussion**](https://slack.cncf.io ) Join the `#confidential-containers` channel.
 
+### Confidential Containers Code of Conduct
+Confidential Containers follows the
+[CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
 
 ---
 ![cncf-logo](https://github.com/confidential-containers/.github/blob/main/cncf-logo.png)
@@ -35,3 +38,4 @@ Check out our previous meetings and join our future ones.
 Confidential Containers is a Cloud Native Computing Foundation sandbox project.
 
 *For community guidelines and policies, please see the [community repository](https://github.com/confidential-containers/community).*
+
