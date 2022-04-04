@@ -1,4 +1,4 @@
-![logo](https://github.com/confidential-containers/.github/blob/main/coco_logo.png)
+![logo](../coco_logo.png)
 
 ## Welcome to confidential-containers
 
@@ -28,8 +28,10 @@ Deploy Confidential Containers on a Kubernetes cluster with an operator.
 Check out our previous meetings and join our future ones.
 - [**Slack Discussion**](https://bit.ly/kataslack) Join the `#confidential-containers` channel.
 
-### Supporting Repositories
-- [**attestation-agent**](https://github.com/confidential-containers/attestation-agent) A user space 
-service for attestation procedure
-- [**containerd**](https://github.com/confidential-containers/containerd) A temporary fork of 
-containerd to explore runtime concepts and capabilities required for confidential containers
+
+---
+![cncf-logo](../cncf-logo.png)
+
+Confidential Containers is a Cloud Native Computing Foundation sandbox project.
+
+*For community guidelines and policies, please see the [community repository](https://github.com/confidential-containers/community).*
