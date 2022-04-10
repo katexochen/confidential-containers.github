@@ -1,4 +1,4 @@
-![logo](../coco_logo.png)
+![logo](https://github.com/confidential-containers/.github/blob/main/coco_logo.png)
 
 ## Welcome to confidential-containers
 
@@ -30,7 +30,7 @@ Check out our previous meetings and join our future ones.
 
 
 ---
-![cncf-logo](../cncf-logo.png)
+![cncf-logo](https://github.com/confidential-containers/.github/blob/main/cncf-logo.png)
 
 Confidential Containers is a Cloud Native Computing Foundation sandbox project.
 
