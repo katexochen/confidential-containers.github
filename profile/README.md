@@ -7,9 +7,9 @@ computing by leveraging
 [Trusted Execution Environments](https://en.wikipedia.org/wiki/Trusted_execution_environment) to 
 protect containers and data.
 
-**Release v0.1.0 is Live!**
-See [Release Notes](https://github.com/confidential-containers/documentation/blob/main/releases/v0.1.0.md)
-or [Quickstart Guide](https://github.com/confidential-containers/documentation/blob/v0.1.0/quickstart.md)
+**We have a new release every 6 weeks!**
+See [Release Notes](https://github.com/confidential-containers/documentation/tree/main/releases)
+or [Quickstart Guide](https://github.com/confidential-containers/documentation/blob/main/quickstart.md)
 
 Goals:
 - Allow cloud native application owners to enforce application security requirements
