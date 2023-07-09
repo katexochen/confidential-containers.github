@@ -8,8 +8,8 @@ computing by leveraging
 protect containers and data.
 
 **We have a new release every 6 weeks!**
-See [Release Notes](https://github.com/confidential-containers/documentation/tree/main/releases)
-or [Quickstart Guide](https://github.com/confidential-containers/documentation/blob/main/quickstart.md)
+See [Release Notes](https://github.com/confidential-containers/confidential-containers/tree/main/releases)
+or [Quickstart Guide](https://github.com/confidential-containers/confidential-containers/blob/main/quickstart.md)
 
 Goals:
 - Allow cloud native application owners to enforce application security requirements
@@ -20,11 +20,11 @@ Goals:
 delivering Confidential Computing for guest application or data inside the TEE.
 
 ### Find out more
-- [**Documentation**](https://github.com/confidential-containers/documentation) Learn about our 
+- [**Documentation**](https://github.com/confidential-containers/confidential-containers) Learn about our 
 vision, goals, and progress.
 
 ### Get started
-- [**Kubernetes Operator**](https://github.com/confidential-containers/confidential-containers-operator)
+- [**Kubernetes Operator**](https://github.com/confidential-containers/operator)
 Deploy Confidential Containers on a Kubernetes cluster with an operator.
 
 ### Join the community
@@ -41,5 +41,5 @@ Confidential Containers follows the
 
 Confidential Containers is a Cloud Native Computing Foundation sandbox project.
 
-*For community guidelines and policies, please see the [community repository](https://github.com/confidential-containers/community).*
+*For community guidelines and policies, please see the [community repository](https://github.com/confidential-containers/confidential-containers).*
 
