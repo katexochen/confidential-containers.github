@@ -1,0 +1,59 @@
+name: Bug Report
+description: Create a bug report in case of an error
+labels: ["bug"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please do not use public github issues to report security vulnerabilities.
+        To report a security vulnerability please follow the security policy found in the security tab of any of our github repositories.
+
+  - type: textarea
+    attributes:
+      label: Describe the bug
+      description: |
+        A clear and concise description of what the bug is.
+        Include what you expected to happen instead.
+    validations:
+        required: true
+
+  - type: textarea
+    attributes:
+      label: How to reproduce
+      description: Steps to reproduce the behavior.
+    validations:
+        required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: CoCo version information
+      description: Trustee, Kata Containers, etc. versions used.
+      placeholder: Ex. trustee vX.Y.Z, guest-components vX.Y.Z
+    validations:
+        required: true
+
+  - type: dropdown
+    id: tee
+    attributes:
+      label: What TEE are you seeing the problem on
+      options:
+        - AzSnpVtpm
+        - AzTdxVtpm
+        - Sev
+        - Sgx
+        - Snp
+        - Tdx
+        - Cca
+        - Csv
+        - Se
+        - Sample
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Failing command and relevant log output
+      description: Please copy and paste the failing command and any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
+
